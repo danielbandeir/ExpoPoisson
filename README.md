@@ -3,7 +3,9 @@ Software for implements graphics about expovariates and Poisson values
 
 # Description
 
-This is a software that test te inverse transform samplig that recieve the lambda and sample space, he generate random uniforms at size of sample space, after this we use the expovariate to transform in random variables, we do ![first equation](https://latex.codecogs.com/gif.latex?-%5Cfrac%7Bx%7D%7B%5Clambda%7D)
+This is a software that test the inverse transform samplig that recieve the lambda and sample space, he generate random uniforms at size of sample space, after this we use the expovariate to transform in random variables, we do ![first equation](https://latex.codecogs.com/gif.latex?-%5Cfrac%7Bx%7D%7B%5Clambda%7D), where X is each uniform.
+He recive a .csv to test the ladder function, to transform in poisson and export the graphic in Matplotlib
+
 
 # Install
 
@@ -35,3 +37,10 @@ After you have to active the virtualenv using:
 Now install the packages using pip:
 
 ```pip install -r requirements.txt```
+
+# Run the program
+
+All of the codes are developed in python version 3.6.6, só to run we have to use:
+
+```python3 mainGui.py```
+
