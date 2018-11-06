@@ -52,3 +52,8 @@ All of the codes are developed in python version 3.6.6, só to run we have to us
 
 ![third image](./imagesTest/third.png)
 
+# To do
+
+- [ ] Transform all GUI in web
+- [ ] Put to transform in Poisson variables
+
