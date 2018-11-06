@@ -44,6 +44,8 @@ All of the codes are developed in python version 3.6.6, só to run we have to us
 
 ```python3 mainGui.py```
 
-#Program GUI
+# Program GUI
 
 ![first image](./imagesTest/first.png)
+
+![second image](./imagesTest/second.png)
